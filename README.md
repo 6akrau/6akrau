@@ -1,7 +1,3 @@
-  2
-  3
-  4
-  5
 Hello, I'm Akshay Rau, a 22 year old computer engineering graduate from the University of Delaware with a passion for data-driven problem solving. I am actively seeking opportunities in data engineering, software engineering, machine learning, or data science. My technical strengths include Python, SQL, and git, and I enjoy uncovering meaningful patterns in data and building scalable solutions that make a real impact.
 
 One project I’m particularly proud of is my UFC Elo ranking system, which applies machine learning and advanced analytics to generate dynamic fighter ratings and predict fight outcomes with 63% accuracy. This project involved designing automated data pipelines and implementing real-time querying to support robust analytics.
