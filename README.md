@@ -2,4 +2,4 @@ Hello, I'm Akshay Rau, a 22 year old computer engineering graduate from the Univ
 
 One project I’m particularly proud of is my UFC Elo ranking system, which applies machine learning and advanced analytics to generate dynamic fighter ratings and predict fight outcomes with 63% accuracy. This project involved designing automated data pipelines and implementing real-time querying to support robust analytics.
 
-Beyond my technical work, I’m enjoy mixed martial arts, lifting weights, manga, and music. If you’d like to connect or learn more, you can reach me on [LinkedIn](https://www.linkedin.com/in/akshay-rau-6038942a0) or visit my website at [akrau.dev](https://akrau.dev).
+Beyond my technical work, I enjoy mixed martial arts, lifting weights, manga, and music. If you’d like to connect or learn more, you can reach me on [LinkedIn](https://www.linkedin.com/in/akshay-rau-6038942a0) or visit my website at [akrau.dev](https://akrau.dev).
